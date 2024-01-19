@@ -2,7 +2,7 @@
 This project aims to develop a machine learning model to classify fruits based on various attributes such as size, weight, sweetness, crunchiness, juiciness, ripeness, acidity, and overall quality. Additionally, the project involves creating a quality prediction model to assess and predict the overall quality of fruits.
 
 # Dataset
-    The dataset (`fruit_quality_dataset.csv`) used in this project can be found [here](https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality).
+The dataset used for this project is obtained from Kaggle and can be found [here](https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality).
 
 # Project Goals
     Apply machine learning knowledge practically.
