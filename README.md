@@ -13,9 +13,9 @@ The dataset used for this project is obtained from Kaggle and can be found [here
     3. Feature Engineering
     4. Split the Data
     5. Model Selection, Training, and Evaluation on Train Data
-    6. Select Best Model
-    7. Tune Hyperparameters
-    8. Model Evaluation on Test Data
+    6. Select Best Model, and Tune Hyperparameters
+    7. Model Evaluation on Test Data
+    8. Launch The Model
 
 # Author and Contact
     Mirza Abbas Uddin
